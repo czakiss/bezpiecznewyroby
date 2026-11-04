@@ -1,0 +1,12 @@
+# hero-desktop.png
+Rozmiar docelowy: 2400x1200 (2:1)
+Zastosowanie: Hero strony głównej (desktop)
+
+## Midjourney
+Wide hero illustration: an elegant wooden charcuterie board floating in space with sliced ham, kabanos sticks, krakowska sausage and salami, each item surrounded by soft holographic pixels dissolving into the air to suggest digital goods, a small shield with a check mark hovering above, left 45% of the image kept calm and empty for headline text, clean modern flat vector style with soft gradients, trustworthy civic aesthetic, palette: deep navy #12263F, signal red #D7263D, warm cream #FFF8EE, ham pink #F2A7A0, accent gold #E9B44C, generous white space, subtle grain --ar 2:1 --style raw --v 7 --no text, watermark
+
+## Uniwersalny (DALL·E / Ideogram / Flux / SD)
+Wide hero illustration: an elegant wooden charcuterie board floating in space with sliced ham, kabanos sticks, krakowska sausage and salami, each item surrounded by soft holographic pixels dissolving into the air to suggest digital goods, a small shield with a check mark hovering above, left 45% of the image kept calm and empty for headline text, clean modern flat vector style with soft gradients, trustworthy civic aesthetic, palette: deep navy #12263F, signal red #D7263D, warm cream #FFF8EE, ham pink #F2A7A0, accent gold #E9B44C, generous white space, subtle grain. Aspect ratio 2:1, high detail, no text unless specified.
+
+## Negatywny
+text artifacts, gibberish letters, watermark, signature, blurry, extra limbs, gore, raw meat blood, cluttered background, low resolution

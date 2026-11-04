@@ -1,0 +1,13 @@
+# ikona-wsparcie.png
+Rozmiar docelowy: 512x512 (1:1)
+Zastosowanie: Ikona: Wsparcie (wektoryzować do SVG)
+Alt: Wsparcie
+
+## Midjourney
+Single flat line icon of a headset with speech bubble, 2px rounded stroke in deep navy #12263F with one small red #D7263D accent fill, consistent icon set style, centered with padding, plain white background, no text, no shadow --ar 1:1 --style raw --v 7 --no text, watermark
+
+## Uniwersalny (DALL·E / Ideogram / Flux / SD)
+Single flat line icon of a headset with speech bubble, 2px rounded stroke in deep navy #12263F with one small red #D7263D accent fill, consistent icon set style, centered with padding, plain white background, no text, no shadow. Aspect ratio 1:1, high detail, no text unless specified.
+
+## Negatywny
+text artifacts, gibberish letters, watermark, signature, blurry, extra limbs, gore, raw meat blood, cluttered background, low resolution, 3d, photo, gradient, multiple objects

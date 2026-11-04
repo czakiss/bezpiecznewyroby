@@ -1,0 +1,13 @@
+# logo-main.png
+Rozmiar docelowy: 1600x480 (10:3)
+Zastosowanie: Logo w nagłówku (jasne tło)
+Alt: Logo Bezpieczne Wyroby
+
+## Midjourney
+Wordmark logo for an online shop called "Bezpieczne Wyroby" selling virtual cold cuts. Bold geometric sans-serif lettering in deep navy, a small shield-shaped emblem on the left containing a stylised sliced sausage with a check mark, red accent on the check mark, flat vector, centered on pure white background, no other text --ar 10:3 --style raw --v 7 --no watermark
+
+## Uniwersalny (DALL·E / Ideogram / Flux / SD)
+Wordmark logo for an online shop called "Bezpieczne Wyroby" selling virtual cold cuts. Bold geometric sans-serif lettering in deep navy, a small shield-shaped emblem on the left containing a stylised sliced sausage with a check mark, red accent on the check mark, flat vector, centered on pure white background, no other text. Aspect ratio 10:3, high detail, no text unless specified.
+
+## Negatywny
+misspelled letters, watermark, signature, blurry, extra limbs, gore, raw meat blood, cluttered background, low resolution

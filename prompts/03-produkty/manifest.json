@@ -1,0 +1,277 @@
+{
+  "pack": "03-produkty",
+  "title": "Zdjęcia produktów (wędliny)",
+  "count": 30,
+  "items": [
+    {
+      "file": "produkt-szynka-wiejska.png",
+      "target_path": "public/images/produkty/produkt-szynka-wiejska.png",
+      "size": "1200x1200",
+      "aspect_ratio": "1:1",
+      "use": "Karta i strona produktu: Szynka wiejska",
+      "alt": "Szynka wiejska – wirtualny produkt",
+      "prompt_file": "prompts/produkt-szynka-wiejska.txt"
+    },
+    {
+      "file": "produkt-szynka-wiejska-lifestyle.png",
+      "target_path": "public/images/produkty/produkt-szynka-wiejska-lifestyle.png",
+      "size": "1600x1000",
+      "aspect_ratio": "8:5",
+      "use": "Galeria produktu: Szynka wiejska (zdjęcie klimatyczne)",
+      "alt": "Szynka wiejska na stole",
+      "prompt_file": "prompts/produkt-szynka-wiejska-lifestyle.txt"
+    },
+    {
+      "file": "produkt-kielbasa-krakowska.png",
+      "target_path": "public/images/produkty/produkt-kielbasa-krakowska.png",
+      "size": "1200x1200",
+      "aspect_ratio": "1:1",
+      "use": "Karta i strona produktu: Kiełbasa krakowska",
+      "alt": "Kiełbasa krakowska – wirtualny produkt",
+      "prompt_file": "prompts/produkt-kielbasa-krakowska.txt"
+    },
+    {
+      "file": "produkt-kielbasa-krakowska-lifestyle.png",
+      "target_path": "public/images/produkty/produkt-kielbasa-krakowska-lifestyle.png",
+      "size": "1600x1000",
+      "aspect_ratio": "8:5",
+      "use": "Galeria produktu: Kiełbasa krakowska (zdjęcie klimatyczne)",
+      "alt": "Kiełbasa krakowska na stole",
+      "prompt_file": "prompts/produkt-kielbasa-krakowska-lifestyle.txt"
+    },
+    {
+      "file": "produkt-kabanosy.png",
+      "target_path": "public/images/produkty/produkt-kabanosy.png",
+      "size": "1200x1200",
+      "aspect_ratio": "1:1",
+      "use": "Karta i strona produktu: Kabanosy",
+      "alt": "Kabanosy – wirtualny produkt",
+      "prompt_file": "prompts/produkt-kabanosy.txt"
+    },
+    {
+      "file": "produkt-kabanosy-lifestyle.png",
+      "target_path": "public/images/produkty/produkt-kabanosy-lifestyle.png",
+      "size": "1600x1000",
+      "aspect_ratio": "8:5",
+      "use": "Galeria produktu: Kabanosy (zdjęcie klimatyczne)",
+      "alt": "Kabanosy na stole",
+      "prompt_file": "prompts/produkt-kabanosy-lifestyle.txt"
+    },
+    {
+      "file": "produkt-salami.png",
+      "target_path": "public/images/produkty/produkt-salami.png",
+      "size": "1200x1200",
+      "aspect_ratio": "1:1",
+      "use": "Karta i strona produktu: Salami",
+      "alt": "Salami – wirtualny produkt",
+      "prompt_file": "prompts/produkt-salami.txt"
+    },
+    {
+      "file": "produkt-salami-lifestyle.png",
+      "target_path": "public/images/produkty/produkt-salami-lifestyle.png",
+      "size": "1600x1000",
+      "aspect_ratio": "8:5",
+      "use": "Galeria produktu: Salami (zdjęcie klimatyczne)",
+      "alt": "Salami na stole",
+      "prompt_file": "prompts/produkt-salami-lifestyle.txt"
+    },
+    {
+      "file": "produkt-boczek-wedzony.png",
+      "target_path": "public/images/produkty/produkt-boczek-wedzony.png",
+      "size": "1200x1200",
+      "aspect_ratio": "1:1",
+      "use": "Karta i strona produktu: Boczek wędzony",
+      "alt": "Boczek wędzony – wirtualny produkt",
+      "prompt_file": "prompts/produkt-boczek-wedzony.txt"
+    },
+    {
+      "file": "produkt-boczek-wedzony-lifestyle.png",
+      "target_path": "public/images/produkty/produkt-boczek-wedzony-lifestyle.png",
+      "size": "1600x1000",
+      "aspect_ratio": "8:5",
+      "use": "Galeria produktu: Boczek wędzony (zdjęcie klimatyczne)",
+      "alt": "Boczek wędzony na stole",
+      "prompt_file": "prompts/produkt-boczek-wedzony-lifestyle.txt"
+    },
+    {
+      "file": "produkt-poledwica-sopocka.png",
+      "target_path": "public/images/produkty/produkt-poledwica-sopocka.png",
+      "size": "1200x1200",
+      "aspect_ratio": "1:1",
+      "use": "Karta i strona produktu: Polędwica sopocka",
+      "alt": "Polędwica sopocka – wirtualny produkt",
+      "prompt_file": "prompts/produkt-poledwica-sopocka.txt"
+    },
+    {
+      "file": "produkt-poledwica-sopocka-lifestyle.png",
+      "target_path": "public/images/produkty/produkt-poledwica-sopocka-lifestyle.png",
+      "size": "1600x1000",
+      "aspect_ratio": "8:5",
+      "use": "Galeria produktu: Polędwica sopocka (zdjęcie klimatyczne)",
+      "alt": "Polędwica sopocka na stole",
+      "prompt_file": "prompts/produkt-poledwica-sopocka-lifestyle.txt"
+    },
+    {
+      "file": "produkt-kielbasa-slaska.png",
+      "target_path": "public/images/produkty/produkt-kielbasa-slaska.png",
+      "size": "1200x1200",
+      "aspect_ratio": "1:1",
+      "use": "Karta i strona produktu: Kiełbasa śląska",
+      "alt": "Kiełbasa śląska – wirtualny produkt",
+      "prompt_file": "prompts/produkt-kielbasa-slaska.txt"
+    },
+    {
+      "file": "produkt-kielbasa-slaska-lifestyle.png",
+      "target_path": "public/images/produkty/produkt-kielbasa-slaska-lifestyle.png",
+      "size": "1600x1000",
+      "aspect_ratio": "8:5",
+      "use": "Galeria produktu: Kiełbasa śląska (zdjęcie klimatyczne)",
+      "alt": "Kiełbasa śląska na stole",
+      "prompt_file": "prompts/produkt-kielbasa-slaska-lifestyle.txt"
+    },
+    {
+      "file": "produkt-kielbasa-mysliwska.png",
+      "target_path": "public/images/produkty/produkt-kielbasa-mysliwska.png",
+      "size": "1200x1200",
+      "aspect_ratio": "1:1",
+      "use": "Karta i strona produktu: Kiełbasa myśliwska",
+      "alt": "Kiełbasa myśliwska – wirtualny produkt",
+      "prompt_file": "prompts/produkt-kielbasa-mysliwska.txt"
+    },
+    {
+      "file": "produkt-kielbasa-mysliwska-lifestyle.png",
+      "target_path": "public/images/produkty/produkt-kielbasa-mysliwska-lifestyle.png",
+      "size": "1600x1000",
+      "aspect_ratio": "8:5",
+      "use": "Galeria produktu: Kiełbasa myśliwska (zdjęcie klimatyczne)",
+      "alt": "Kiełbasa myśliwska na stole",
+      "prompt_file": "prompts/produkt-kielbasa-mysliwska-lifestyle.txt"
+    },
+    {
+      "file": "produkt-baleron.png",
+      "target_path": "public/images/produkty/produkt-baleron.png",
+      "size": "1200x1200",
+      "aspect_ratio": "1:1",
+      "use": "Karta i strona produktu: Baleron",
+      "alt": "Baleron – wirtualny produkt",
+      "prompt_file": "prompts/produkt-baleron.txt"
+    },
+    {
+      "file": "produkt-baleron-lifestyle.png",
+      "target_path": "public/images/produkty/produkt-baleron-lifestyle.png",
+      "size": "1600x1000",
+      "aspect_ratio": "8:5",
+      "use": "Galeria produktu: Baleron (zdjęcie klimatyczne)",
+      "alt": "Baleron na stole",
+      "prompt_file": "prompts/produkt-baleron-lifestyle.txt"
+    },
+    {
+      "file": "produkt-schab-pieczony.png",
+      "target_path": "public/images/produkty/produkt-schab-pieczony.png",
+      "size": "1200x1200",
+      "aspect_ratio": "1:1",
+      "use": "Karta i strona produktu: Schab pieczony",
+      "alt": "Schab pieczony – wirtualny produkt",
+      "prompt_file": "prompts/produkt-schab-pieczony.txt"
+    },
+    {
+      "file": "produkt-schab-pieczony-lifestyle.png",
+      "target_path": "public/images/produkty/produkt-schab-pieczony-lifestyle.png",
+      "size": "1600x1000",
+      "aspect_ratio": "8:5",
+      "use": "Galeria produktu: Schab pieczony (zdjęcie klimatyczne)",
+      "alt": "Schab pieczony na stole",
+      "prompt_file": "prompts/produkt-schab-pieczony-lifestyle.txt"
+    },
+    {
+      "file": "produkt-mortadela.png",
+      "target_path": "public/images/produkty/produkt-mortadela.png",
+      "size": "1200x1200",
+      "aspect_ratio": "1:1",
+      "use": "Karta i strona produktu: Mortadela",
+      "alt": "Mortadela – wirtualny produkt",
+      "prompt_file": "prompts/produkt-mortadela.txt"
+    },
+    {
+      "file": "produkt-mortadela-lifestyle.png",
+      "target_path": "public/images/produkty/produkt-mortadela-lifestyle.png",
+      "size": "1600x1000",
+      "aspect_ratio": "8:5",
+      "use": "Galeria produktu: Mortadela (zdjęcie klimatyczne)",
+      "alt": "Mortadela na stole",
+      "prompt_file": "prompts/produkt-mortadela-lifestyle.txt"
+    },
+    {
+      "file": "produkt-pasztet.png",
+      "target_path": "public/images/produkty/produkt-pasztet.png",
+      "size": "1200x1200",
+      "aspect_ratio": "1:1",
+      "use": "Karta i strona produktu: Pasztet",
+      "alt": "Pasztet – wirtualny produkt",
+      "prompt_file": "prompts/produkt-pasztet.txt"
+    },
+    {
+      "file": "produkt-pasztet-lifestyle.png",
+      "target_path": "public/images/produkty/produkt-pasztet-lifestyle.png",
+      "size": "1600x1000",
+      "aspect_ratio": "8:5",
+      "use": "Galeria produktu: Pasztet (zdjęcie klimatyczne)",
+      "alt": "Pasztet na stole",
+      "prompt_file": "prompts/produkt-pasztet-lifestyle.txt"
+    },
+    {
+      "file": "produkt-salceson.png",
+      "target_path": "public/images/produkty/produkt-salceson.png",
+      "size": "1200x1200",
+      "aspect_ratio": "1:1",
+      "use": "Karta i strona produktu: Salceson",
+      "alt": "Salceson – wirtualny produkt",
+      "prompt_file": "prompts/produkt-salceson.txt"
+    },
+    {
+      "file": "produkt-salceson-lifestyle.png",
+      "target_path": "public/images/produkty/produkt-salceson-lifestyle.png",
+      "size": "1600x1000",
+      "aspect_ratio": "8:5",
+      "use": "Galeria produktu: Salceson (zdjęcie klimatyczne)",
+      "alt": "Salceson na stole",
+      "prompt_file": "prompts/produkt-salceson-lifestyle.txt"
+    },
+    {
+      "file": "produkt-kaszanka.png",
+      "target_path": "public/images/produkty/produkt-kaszanka.png",
+      "size": "1200x1200",
+      "aspect_ratio": "1:1",
+      "use": "Karta i strona produktu: Kaszanka",
+      "alt": "Kaszanka – wirtualny produkt",
+      "prompt_file": "prompts/produkt-kaszanka.txt"
+    },
+    {
+      "file": "produkt-kaszanka-lifestyle.png",
+      "target_path": "public/images/produkty/produkt-kaszanka-lifestyle.png",
+      "size": "1600x1000",
+      "aspect_ratio": "8:5",
+      "use": "Galeria produktu: Kaszanka (zdjęcie klimatyczne)",
+      "alt": "Kaszanka na stole",
+      "prompt_file": "prompts/produkt-kaszanka-lifestyle.txt"
+    },
+    {
+      "file": "produkt-zestaw-degustacyjny.png",
+      "target_path": "public/images/produkty/produkt-zestaw-degustacyjny.png",
+      "size": "1200x1200",
+      "aspect_ratio": "1:1",
+      "use": "Karta i strona produktu: Zestaw degustacyjny",
+      "alt": "Zestaw degustacyjny – wirtualny produkt",
+      "prompt_file": "prompts/produkt-zestaw-degustacyjny.txt"
+    },
+    {
+      "file": "produkt-zestaw-degustacyjny-lifestyle.png",
+      "target_path": "public/images/produkty/produkt-zestaw-degustacyjny-lifestyle.png",
+      "size": "1600x1000",
+      "aspect_ratio": "8:5",
+      "use": "Galeria produktu: Zestaw degustacyjny (zdjęcie klimatyczne)",
+      "alt": "Zestaw degustacyjny na stole",
+      "prompt_file": "prompts/produkt-zestaw-degustacyjny-lifestyle.txt"
+    }
+  ]
+}

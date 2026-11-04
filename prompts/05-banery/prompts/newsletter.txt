@@ -1,0 +1,12 @@
+# newsletter.png
+Rozmiar docelowy: 1200x800 (3:2)
+Zastosowanie: Sekcja newslettera
+
+## Midjourney
+An envelope opening with a sliced sausage peeking out wearing a small shield badge, playful, clean modern flat vector style with soft gradients, trustworthy civic aesthetic, palette: deep navy #12263F, signal red #D7263D, warm cream #FFF8EE, ham pink #F2A7A0, accent gold #E9B44C, generous white space, subtle grain --ar 3:2 --style raw --v 7 --no text, watermark
+
+## Uniwersalny (DALL·E / Ideogram / Flux / SD)
+An envelope opening with a sliced sausage peeking out wearing a small shield badge, playful, clean modern flat vector style with soft gradients, trustworthy civic aesthetic, palette: deep navy #12263F, signal red #D7263D, warm cream #FFF8EE, ham pink #F2A7A0, accent gold #E9B44C, generous white space, subtle grain. Aspect ratio 3:2, high detail, no text unless specified.
+
+## Negatywny
+text artifacts, gibberish letters, watermark, signature, blurry, extra limbs, gore, raw meat blood, cluttered background, low resolution

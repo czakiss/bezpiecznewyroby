@@ -1,0 +1,52 @@
+{
+  "pack": "01-branding",
+  "title": "Branding: logo, sygnet, favicon, OG",
+  "count": 5,
+  "items": [
+    {
+      "file": "logo-main.png",
+      "target_path": "public/images/branding/logo-main.png",
+      "size": "1600x480",
+      "aspect_ratio": "10:3",
+      "use": "Logo w nagłówku (jasne tło)",
+      "alt": "Logo Bezpieczne Wyroby",
+      "prompt_file": "prompts/logo-main.txt"
+    },
+    {
+      "file": "logo-mark.png",
+      "target_path": "public/images/branding/logo-mark.png",
+      "size": "1024x1024",
+      "aspect_ratio": "1:1",
+      "use": "Sygnet (avatar, mobile header)",
+      "alt": "Sygnet Bezpieczne Wyroby",
+      "prompt_file": "prompts/logo-mark.txt"
+    },
+    {
+      "file": "logo-mono-white.png",
+      "target_path": "public/images/branding/logo-mono-white.png",
+      "size": "1600x480",
+      "aspect_ratio": "10:3",
+      "use": "Logo na ciemnym tle (stopka)",
+      "alt": "Logo Bezpieczne Wyroby (białe)",
+      "prompt_file": "prompts/logo-mono-white.txt"
+    },
+    {
+      "file": "favicon.png",
+      "target_path": "public/images/branding/favicon.png",
+      "size": "512x512",
+      "aspect_ratio": "1:1",
+      "use": "Favicon / app icon (zmniejszyć do 32/180/192)",
+      "alt": "",
+      "prompt_file": "prompts/favicon.txt"
+    },
+    {
+      "file": "og-image.png",
+      "target_path": "public/images/branding/og-image.png",
+      "size": "1200x630",
+      "aspect_ratio": "1.91:1",
+      "use": "Obrazek Open Graph do udostępnień",
+      "alt": "",
+      "prompt_file": "prompts/og-image.txt"
+    }
+  ]
+}

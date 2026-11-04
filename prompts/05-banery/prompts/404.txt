@@ -1,0 +1,12 @@
+# 404.png
+Rozmiar docelowy: 1200x900 (4:3)
+Zastosowanie: Strona 404
+
+## Midjourney
+A confused dachshund dog sniffing a broken glowing sausage made of pixels, a question mark above, friendly, clean modern flat vector style with soft gradients, trustworthy civic aesthetic, palette: deep navy #12263F, signal red #D7263D, warm cream #FFF8EE, ham pink #F2A7A0, accent gold #E9B44C, generous white space, subtle grain --ar 4:3 --style raw --v 7 --no text, watermark
+
+## Uniwersalny (DALL·E / Ideogram / Flux / SD)
+A confused dachshund dog sniffing a broken glowing sausage made of pixels, a question mark above, friendly, clean modern flat vector style with soft gradients, trustworthy civic aesthetic, palette: deep navy #12263F, signal red #D7263D, warm cream #FFF8EE, ham pink #F2A7A0, accent gold #E9B44C, generous white space, subtle grain. Aspect ratio 4:3, high detail, no text unless specified.
+
+## Negatywny
+text artifacts, gibberish letters, watermark, signature, blurry, extra limbs, gore, raw meat blood, cluttered background, low resolution

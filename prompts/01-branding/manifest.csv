@@ -1,0 +1,6 @@
+file,target_path,size,aspect_ratio,use,alt,prompt_file
+logo-main.png,public/images/branding/logo-main.png,1600x480,10:3,Logo w nagłówku (jasne tło),Logo Bezpieczne Wyroby,prompts/logo-main.txt
+logo-mark.png,public/images/branding/logo-mark.png,1024x1024,1:1,"Sygnet (avatar, mobile header)",Sygnet Bezpieczne Wyroby,prompts/logo-mark.txt
+logo-mono-white.png,public/images/branding/logo-mono-white.png,1600x480,10:3,Logo na ciemnym tle (stopka),Logo Bezpieczne Wyroby (białe),prompts/logo-mono-white.txt
+favicon.png,public/images/branding/favicon.png,512x512,1:1,Favicon / app icon (zmniejszyć do 32/180/192),,prompts/favicon.txt
+og-image.png,public/images/branding/og-image.png,1200x630,1.91:1,Obrazek Open Graph do udostępnień,,prompts/og-image.txt

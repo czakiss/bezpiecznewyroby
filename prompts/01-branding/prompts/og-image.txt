@@ -1,0 +1,12 @@
+# og-image.png
+Rozmiar docelowy: 1200x630 (1.91:1)
+Zastosowanie: Obrazek Open Graph do udostępnień
+
+## Midjourney
+Social share banner: on the left a shield emblem with a sliced sausage and check mark, on the right empty space for headline text, floating glowing slices of ham and kabanos arranged diagonally, clean modern flat vector style with soft gradients, trustworthy civic aesthetic, palette: deep navy #12263F, signal red #D7263D, warm cream #FFF8EE, ham pink #F2A7A0, accent gold #E9B44C, generous white space, subtle grain --ar 191:100 --style raw --v 7 --no text, watermark
+
+## Uniwersalny (DALL·E / Ideogram / Flux / SD)
+Social share banner: on the left a shield emblem with a sliced sausage and check mark, on the right empty space for headline text, floating glowing slices of ham and kabanos arranged diagonally, clean modern flat vector style with soft gradients, trustworthy civic aesthetic, palette: deep navy #12263F, signal red #D7263D, warm cream #FFF8EE, ham pink #F2A7A0, accent gold #E9B44C, generous white space, subtle grain. Aspect ratio 1.91:1, high detail, no text unless specified.
+
+## Negatywny
+text artifacts, gibberish letters, watermark, signature, blurry, extra limbs, gore, raw meat blood, cluttered background, low resolution

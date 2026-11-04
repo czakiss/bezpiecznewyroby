@@ -1,0 +1,12 @@
+# about-us.png
+Rozmiar docelowy: 1600x1200 (4:3)
+Zastosowanie: Sekcja "O nas"
+
+## Midjourney
+Friendly flat illustration of a traditional Polish butcher in a white apron and navy cap standing behind a counter that is also a computer screen, handing over a glowing digital sausage, warm and trustworthy mood, clean modern flat vector style with soft gradients, trustworthy civic aesthetic, palette: deep navy #12263F, signal red #D7263D, warm cream #FFF8EE, ham pink #F2A7A0, accent gold #E9B44C, generous white space, subtle grain --ar 4:3 --style raw --v 7 --no text, watermark
+
+## Uniwersalny (DALL·E / Ideogram / Flux / SD)
+Friendly flat illustration of a traditional Polish butcher in a white apron and navy cap standing behind a counter that is also a computer screen, handing over a glowing digital sausage, warm and trustworthy mood, clean modern flat vector style with soft gradients, trustworthy civic aesthetic, palette: deep navy #12263F, signal red #D7263D, warm cream #FFF8EE, ham pink #F2A7A0, accent gold #E9B44C, generous white space, subtle grain. Aspect ratio 4:3, high detail, no text unless specified.
+
+## Negatywny
+text artifacts, gibberish letters, watermark, signature, blurry, extra limbs, gore, raw meat blood, cluttered background, low resolution

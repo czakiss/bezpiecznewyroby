@@ -1,0 +1,79 @@
+@import "tailwindcss";
+@import "tw-animate-css";
+
+@custom-variant dark (&:is(.dark *));
+
+/* Paleta "Bezpieczne Wyroby": granat, czerwień, krem, róż, złoto */
+:root {
+  --radius: 0.625rem;
+  --background: #ffffff;
+  --foreground: #12263f;
+  --card: #ffffff;
+  --card-foreground: #12263f;
+  --popover: #ffffff;
+  --popover-foreground: #12263f;
+  --primary: #12263f;
+  --primary-foreground: #ffffff;
+  --secondary: #eef2f7;
+  --secondary-foreground: #12263f;
+  --muted: #f3f5f8;
+  --muted-foreground: #5a6b82;
+  --accent: #d7263d;
+  --accent-foreground: #ffffff;
+  --destructive: #c0392b;
+  --border: #dde3ec;
+  --input: #cfd7e3;
+  --ring: #2f5d9a;
+  --cream: #fff8ee;
+  --pink: #f2a7a0;
+  --gold: #e9b44c;
+}
+
+@theme inline {
+  --color-background: var(--background);
+  --color-foreground: var(--foreground);
+  --color-card: var(--card);
+  --color-card-foreground: var(--card-foreground);
+  --color-popover: var(--popover);
+  --color-popover-foreground: var(--popover-foreground);
+  --color-primary: var(--primary);
+  --color-primary-foreground: var(--primary-foreground);
+  --color-secondary: var(--secondary);
+  --color-secondary-foreground: var(--secondary-foreground);
+  --color-muted: var(--muted);
+  --color-muted-foreground: var(--muted-foreground);
+  --color-accent: var(--accent);
+  --color-accent-foreground: var(--accent-foreground);
+  --color-destructive: var(--destructive);
+  --color-border: var(--border);
+  --color-input: var(--input);
+  --color-ring: var(--ring);
+  --color-cream: var(--cream);
+  --color-pink: var(--pink);
+  --color-gold: var(--gold);
+  --radius-sm: calc(var(--radius) - 4px);
+  --radius-md: calc(var(--radius) - 2px);
+  --radius-lg: var(--radius);
+  --radius-xl: calc(var(--radius) + 4px);
+  --font-sans: var(--font-sans-pl);
+}
+
+@layer base {
+  * {
+    @apply border-border outline-ring/50;
+  }
+  body {
+    @apply bg-background text-foreground antialiased;
+  }
+  html {
+    scroll-behavior: smooth;
+  }
+}
+
+/* Delikatny wzór w tle sekcji hero: "plasterki" */
+.bg-slices {
+  background-image:
+    radial-gradient(circle at 20% 30%, rgb(255 255 255 / 0.07) 0 60px, transparent 61px),
+    radial-gradient(circle at 80% 70%, rgb(255 255 255 / 0.05) 0 90px, transparent 91px),
+    radial-gradient(circle at 60% 10%, rgb(233 180 76 / 0.12) 0 40px, transparent 41px);
+}

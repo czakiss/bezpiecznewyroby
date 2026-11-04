@@ -1,0 +1,31 @@
+file,target_path,size,aspect_ratio,use,alt,prompt_file
+produkt-szynka-wiejska.png,public/images/produkty/produkt-szynka-wiejska.png,1200x1200,1:1,Karta i strona produktu: Szynka wiejska,Szynka wiejska – wirtualny produkt,prompts/produkt-szynka-wiejska.txt
+produkt-szynka-wiejska-lifestyle.png,public/images/produkty/produkt-szynka-wiejska-lifestyle.png,1600x1000,8:5,Galeria produktu: Szynka wiejska (zdjęcie klimatyczne),Szynka wiejska na stole,prompts/produkt-szynka-wiejska-lifestyle.txt
+produkt-kielbasa-krakowska.png,public/images/produkty/produkt-kielbasa-krakowska.png,1200x1200,1:1,Karta i strona produktu: Kiełbasa krakowska,Kiełbasa krakowska – wirtualny produkt,prompts/produkt-kielbasa-krakowska.txt
+produkt-kielbasa-krakowska-lifestyle.png,public/images/produkty/produkt-kielbasa-krakowska-lifestyle.png,1600x1000,8:5,Galeria produktu: Kiełbasa krakowska (zdjęcie klimatyczne),Kiełbasa krakowska na stole,prompts/produkt-kielbasa-krakowska-lifestyle.txt
+produkt-kabanosy.png,public/images/produkty/produkt-kabanosy.png,1200x1200,1:1,Karta i strona produktu: Kabanosy,Kabanosy – wirtualny produkt,prompts/produkt-kabanosy.txt
+produkt-kabanosy-lifestyle.png,public/images/produkty/produkt-kabanosy-lifestyle.png,1600x1000,8:5,Galeria produktu: Kabanosy (zdjęcie klimatyczne),Kabanosy na stole,prompts/produkt-kabanosy-lifestyle.txt
+produkt-salami.png,public/images/produkty/produkt-salami.png,1200x1200,1:1,Karta i strona produktu: Salami,Salami – wirtualny produkt,prompts/produkt-salami.txt
+produkt-salami-lifestyle.png,public/images/produkty/produkt-salami-lifestyle.png,1600x1000,8:5,Galeria produktu: Salami (zdjęcie klimatyczne),Salami na stole,prompts/produkt-salami-lifestyle.txt
+produkt-boczek-wedzony.png,public/images/produkty/produkt-boczek-wedzony.png,1200x1200,1:1,Karta i strona produktu: Boczek wędzony,Boczek wędzony – wirtualny produkt,prompts/produkt-boczek-wedzony.txt
+produkt-boczek-wedzony-lifestyle.png,public/images/produkty/produkt-boczek-wedzony-lifestyle.png,1600x1000,8:5,Galeria produktu: Boczek wędzony (zdjęcie klimatyczne),Boczek wędzony na stole,prompts/produkt-boczek-wedzony-lifestyle.txt
+produkt-poledwica-sopocka.png,public/images/produkty/produkt-poledwica-sopocka.png,1200x1200,1:1,Karta i strona produktu: Polędwica sopocka,Polędwica sopocka – wirtualny produkt,prompts/produkt-poledwica-sopocka.txt
+produkt-poledwica-sopocka-lifestyle.png,public/images/produkty/produkt-poledwica-sopocka-lifestyle.png,1600x1000,8:5,Galeria produktu: Polędwica sopocka (zdjęcie klimatyczne),Polędwica sopocka na stole,prompts/produkt-poledwica-sopocka-lifestyle.txt
+produkt-kielbasa-slaska.png,public/images/produkty/produkt-kielbasa-slaska.png,1200x1200,1:1,Karta i strona produktu: Kiełbasa śląska,Kiełbasa śląska – wirtualny produkt,prompts/produkt-kielbasa-slaska.txt
+produkt-kielbasa-slaska-lifestyle.png,public/images/produkty/produkt-kielbasa-slaska-lifestyle.png,1600x1000,8:5,Galeria produktu: Kiełbasa śląska (zdjęcie klimatyczne),Kiełbasa śląska na stole,prompts/produkt-kielbasa-slaska-lifestyle.txt
+produkt-kielbasa-mysliwska.png,public/images/produkty/produkt-kielbasa-mysliwska.png,1200x1200,1:1,Karta i strona produktu: Kiełbasa myśliwska,Kiełbasa myśliwska – wirtualny produkt,prompts/produkt-kielbasa-mysliwska.txt
+produkt-kielbasa-mysliwska-lifestyle.png,public/images/produkty/produkt-kielbasa-mysliwska-lifestyle.png,1600x1000,8:5,Galeria produktu: Kiełbasa myśliwska (zdjęcie klimatyczne),Kiełbasa myśliwska na stole,prompts/produkt-kielbasa-mysliwska-lifestyle.txt
+produkt-baleron.png,public/images/produkty/produkt-baleron.png,1200x1200,1:1,Karta i strona produktu: Baleron,Baleron – wirtualny produkt,prompts/produkt-baleron.txt
+produkt-baleron-lifestyle.png,public/images/produkty/produkt-baleron-lifestyle.png,1600x1000,8:5,Galeria produktu: Baleron (zdjęcie klimatyczne),Baleron na stole,prompts/produkt-baleron-lifestyle.txt
+produkt-schab-pieczony.png,public/images/produkty/produkt-schab-pieczony.png,1200x1200,1:1,Karta i strona produktu: Schab pieczony,Schab pieczony – wirtualny produkt,prompts/produkt-schab-pieczony.txt
+produkt-schab-pieczony-lifestyle.png,public/images/produkty/produkt-schab-pieczony-lifestyle.png,1600x1000,8:5,Galeria produktu: Schab pieczony (zdjęcie klimatyczne),Schab pieczony na stole,prompts/produkt-schab-pieczony-lifestyle.txt
+produkt-mortadela.png,public/images/produkty/produkt-mortadela.png,1200x1200,1:1,Karta i strona produktu: Mortadela,Mortadela – wirtualny produkt,prompts/produkt-mortadela.txt
+produkt-mortadela-lifestyle.png,public/images/produkty/produkt-mortadela-lifestyle.png,1600x1000,8:5,Galeria produktu: Mortadela (zdjęcie klimatyczne),Mortadela na stole,prompts/produkt-mortadela-lifestyle.txt
+produkt-pasztet.png,public/images/produkty/produkt-pasztet.png,1200x1200,1:1,Karta i strona produktu: Pasztet,Pasztet – wirtualny produkt,prompts/produkt-pasztet.txt
+produkt-pasztet-lifestyle.png,public/images/produkty/produkt-pasztet-lifestyle.png,1600x1000,8:5,Galeria produktu: Pasztet (zdjęcie klimatyczne),Pasztet na stole,prompts/produkt-pasztet-lifestyle.txt
+produkt-salceson.png,public/images/produkty/produkt-salceson.png,1200x1200,1:1,Karta i strona produktu: Salceson,Salceson – wirtualny produkt,prompts/produkt-salceson.txt
+produkt-salceson-lifestyle.png,public/images/produkty/produkt-salceson-lifestyle.png,1600x1000,8:5,Galeria produktu: Salceson (zdjęcie klimatyczne),Salceson na stole,prompts/produkt-salceson-lifestyle.txt
+produkt-kaszanka.png,public/images/produkty/produkt-kaszanka.png,1200x1200,1:1,Karta i strona produktu: Kaszanka,Kaszanka – wirtualny produkt,prompts/produkt-kaszanka.txt
+produkt-kaszanka-lifestyle.png,public/images/produkty/produkt-kaszanka-lifestyle.png,1600x1000,8:5,Galeria produktu: Kaszanka (zdjęcie klimatyczne),Kaszanka na stole,prompts/produkt-kaszanka-lifestyle.txt
+produkt-zestaw-degustacyjny.png,public/images/produkty/produkt-zestaw-degustacyjny.png,1200x1200,1:1,Karta i strona produktu: Zestaw degustacyjny,Zestaw degustacyjny – wirtualny produkt,prompts/produkt-zestaw-degustacyjny.txt
+produkt-zestaw-degustacyjny-lifestyle.png,public/images/produkty/produkt-zestaw-degustacyjny-lifestyle.png,1600x1000,8:5,Galeria produktu: Zestaw degustacyjny (zdjęcie klimatyczne),Zestaw degustacyjny na stole,prompts/produkt-zestaw-degustacyjny-lifestyle.txt

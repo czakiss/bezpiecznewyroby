@@ -1,0 +1,13 @@
+# produkt-baleron.png
+Rozmiar docelowy: 1200x1200 (1:1)
+Zastosowanie: Karta i strona produktu: Baleron
+Alt: Baleron – wirtualny produkt
+
+## Midjourney
+Product packshot of a rolled smoked pork neck with net string, slices showing marbling, centered, isolated, Polish deli quality, a faint holographic shimmer and tiny floating pixels at the edges showing it is a virtual product, premium studio product photography, softbox lighting, shallow depth of field, slight digital glow outline suggesting a virtual product, cream background #FFF8EE --ar 1:1 --style raw --v 7 --no text, watermark
+
+## Uniwersalny (DALL·E / Ideogram / Flux / SD)
+Product packshot of a rolled smoked pork neck with net string, slices showing marbling, centered, isolated, Polish deli quality, a faint holographic shimmer and tiny floating pixels at the edges showing it is a virtual product, premium studio product photography, softbox lighting, shallow depth of field, slight digital glow outline suggesting a virtual product, cream background #FFF8EE. Aspect ratio 1:1, high detail, no text unless specified.
+
+## Negatywny
+text artifacts, gibberish letters, watermark, signature, blurry, extra limbs, gore, raw meat blood, cluttered background, low resolution

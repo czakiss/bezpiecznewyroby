@@ -1,0 +1,12 @@
+# trust-section-bg.png
+Rozmiar docelowy: 2400x800 (3:1)
+Zastosowanie: Tło sekcji zaufania / gwarancji
+
+## Midjourney
+Subtle abstract background pattern of thin line icons: shields, check marks, sausage slices and padlocks, low contrast navy on cream, seamless, clean modern flat vector style with soft gradients, trustworthy civic aesthetic, palette: deep navy #12263F, signal red #D7263D, warm cream #FFF8EE, ham pink #F2A7A0, accent gold #E9B44C, generous white space, subtle grain --ar 3:1 --style raw --v 7 --no text, watermark
+
+## Uniwersalny (DALL·E / Ideogram / Flux / SD)
+Subtle abstract background pattern of thin line icons: shields, check marks, sausage slices and padlocks, low contrast navy on cream, seamless, clean modern flat vector style with soft gradients, trustworthy civic aesthetic, palette: deep navy #12263F, signal red #D7263D, warm cream #FFF8EE, ham pink #F2A7A0, accent gold #E9B44C, generous white space, subtle grain. Aspect ratio 3:1, high detail, no text unless specified.
+
+## Negatywny
+text artifacts, gibberish letters, watermark, signature, blurry, extra limbs, gore, raw meat blood, cluttered background, low resolution

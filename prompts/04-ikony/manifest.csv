@@ -1,0 +1,16 @@
+file,target_path,size,aspect_ratio,use,alt,prompt_file
+ikona-bezpieczna-platnosc.png,public/images/ikony/ikona-bezpieczna-platnosc.png,512x512,1:1,Ikona: Bezpieczna płatność (wektoryzować do SVG),Bezpieczna płatność,prompts/ikona-bezpieczna-platnosc.txt
+ikona-dostawa-natychmiastowa.png,public/images/ikony/ikona-dostawa-natychmiastowa.png,512x512,1:1,Ikona: Dostawa natychmiastowa (wektoryzować do SVG),Dostawa natychmiastowa,prompts/ikona-dostawa-natychmiastowa.txt
+ikona-zero-kalorii.png,public/images/ikony/ikona-zero-kalorii.png,512x512,1:1,Ikona: 0 kalorii (wektoryzować do SVG),0 kalorii,prompts/ikona-zero-kalorii.txt
+ikona-certyfikat.png,public/images/ikony/ikona-certyfikat.png,512x512,1:1,Ikona: Certyfikat jakości (wektoryzować do SVG),Certyfikat jakości,prompts/ikona-certyfikat.txt
+ikona-koszyk.png,public/images/ikony/ikona-koszyk.png,512x512,1:1,Ikona: Koszyk (wektoryzować do SVG),Koszyk,prompts/ikona-koszyk.txt
+ikona-pobierz.png,public/images/ikony/ikona-pobierz.png,512x512,1:1,Ikona: Pobierz (wektoryzować do SVG),Pobierz,prompts/ikona-pobierz.txt
+ikona-swiezosc.png,public/images/ikony/ikona-swiezosc.png,512x512,1:1,Ikona: Wieczna świeżość (wektoryzować do SVG),Wieczna świeżość,prompts/ikona-swiezosc.txt
+ikona-eko.png,public/images/ikony/ikona-eko.png,512x512,1:1,Ikona: Zero odpadów (wektoryzować do SVG),Zero odpadów,prompts/ikona-eko.txt
+ikona-konto.png,public/images/ikony/ikona-konto.png,512x512,1:1,Ikona: Konto (wektoryzować do SVG),Konto,prompts/ikona-konto.txt
+ikona-wsparcie.png,public/images/ikony/ikona-wsparcie.png,512x512,1:1,Ikona: Wsparcie (wektoryzować do SVG),Wsparcie,prompts/ikona-wsparcie.txt
+ikona-kat-szynki.png,public/images/ikony/ikona-kat-szynki.png,512x512,1:1,Ikona: Kategoria: szynki (wektoryzować do SVG),Kategoria: szynki,prompts/ikona-kat-szynki.txt
+ikona-kat-kielbasy.png,public/images/ikony/ikona-kat-kielbasy.png,512x512,1:1,Ikona: Kategoria: kiełbasy (wektoryzować do SVG),Kategoria: kiełbasy,prompts/ikona-kat-kielbasy.txt
+ikona-kat-suche.png,public/images/ikony/ikona-kat-suche.png,512x512,1:1,Ikona: Kategoria: wędliny suche (wektoryzować do SVG),Kategoria: wędliny suche,prompts/ikona-kat-suche.txt
+ikona-kat-pasztety.png,public/images/ikony/ikona-kat-pasztety.png,512x512,1:1,Ikona: Kategoria: pasztety (wektoryzować do SVG),Kategoria: pasztety,prompts/ikona-kat-pasztety.txt
+ikona-kat-zestawy.png,public/images/ikony/ikona-kat-zestawy.png,512x512,1:1,Ikona: Kategoria: zestawy (wektoryzować do SVG),Kategoria: zestawy,prompts/ikona-kat-zestawy.txt

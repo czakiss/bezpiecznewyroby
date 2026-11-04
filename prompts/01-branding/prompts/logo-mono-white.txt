@@ -1,0 +1,13 @@
+# logo-mono-white.png
+Rozmiar docelowy: 1600x480 (10:3)
+Zastosowanie: Logo na ciemnym tle (stopka)
+Alt: Logo Bezpieczne Wyroby (białe)
+
+## Midjourney
+Same wordmark "Bezpieczne Wyroby" with shield emblem rendered entirely in white, single-color flat vector, on solid deep navy #12263F background --ar 10:3 --style raw --v 7 --no watermark
+
+## Uniwersalny (DALL·E / Ideogram / Flux / SD)
+Same wordmark "Bezpieczne Wyroby" with shield emblem rendered entirely in white, single-color flat vector, on solid deep navy #12263F background. Aspect ratio 10:3, high detail, no text unless specified.
+
+## Negatywny
+misspelled letters, watermark, signature, blurry, extra limbs, gore, raw meat blood, cluttered background, low resolution

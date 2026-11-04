@@ -1,0 +1,12 @@
+# zamowienie-sukces.png
+Rozmiar docelowy: 800x800 (1:1)
+Zastosowanie: Potwierdzenie zamówienia
+
+## Midjourney
+A happy sausage character giving a thumbs up next to a big green-red check mark in a shield, confetti, clean modern flat vector style with soft gradients, trustworthy civic aesthetic, palette: deep navy #12263F, signal red #D7263D, warm cream #FFF8EE, ham pink #F2A7A0, accent gold #E9B44C, generous white space, subtle grain --ar 1:1 --style raw --v 7 --no text, watermark
+
+## Uniwersalny (DALL·E / Ideogram / Flux / SD)
+A happy sausage character giving a thumbs up next to a big green-red check mark in a shield, confetti, clean modern flat vector style with soft gradients, trustworthy civic aesthetic, palette: deep navy #12263F, signal red #D7263D, warm cream #FFF8EE, ham pink #F2A7A0, accent gold #E9B44C, generous white space, subtle grain. Aspect ratio 1:1, high detail, no text unless specified.
+
+## Negatywny
+text artifacts, gibberish letters, watermark, signature, blurry, extra limbs, gore, raw meat blood, cluttered background, low resolution

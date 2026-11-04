@@ -1,0 +1,13 @@
+# logo-mark.png
+Rozmiar docelowy: 1024x1024 (1:1)
+Zastosowanie: Sygnet (avatar, mobile header)
+Alt: Sygnet Bezpieczne Wyroby
+
+## Midjourney
+Minimal emblem: a rounded shield in deep navy #12263F with a white stylised slice of sausage and a red #D7263D check mark, flat vector icon, perfectly centered, solid white background, no text --ar 1:1 --style raw --v 7 --no text, watermark
+
+## Uniwersalny (DALL·E / Ideogram / Flux / SD)
+Minimal emblem: a rounded shield in deep navy #12263F with a white stylised slice of sausage and a red #D7263D check mark, flat vector icon, perfectly centered, solid white background, no text. Aspect ratio 1:1, high detail, no text unless specified.
+
+## Negatywny
+misspelled letters, watermark, signature, blurry, extra limbs, gore, raw meat blood, cluttered background, low resolution

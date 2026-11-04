@@ -1,0 +1,12 @@
+# how-it-works.png
+Rozmiar docelowy: 1800x900 (2:1)
+Zastosowanie: Sekcja "Jak to działa"
+
+## Midjourney
+Three-step horizontal illustration with simple arrows: 1) a hand choosing a sausage on a smartphone, 2) a secure payment shield, 3) a glowing sausage arriving as a download into a laptop, no numbers or text, clean modern flat vector style with soft gradients, trustworthy civic aesthetic, palette: deep navy #12263F, signal red #D7263D, warm cream #FFF8EE, ham pink #F2A7A0, accent gold #E9B44C, generous white space, subtle grain --ar 2:1 --style raw --v 7 --no text, watermark
+
+## Uniwersalny (DALL·E / Ideogram / Flux / SD)
+Three-step horizontal illustration with simple arrows: 1) a hand choosing a sausage on a smartphone, 2) a secure payment shield, 3) a glowing sausage arriving as a download into a laptop, no numbers or text, clean modern flat vector style with soft gradients, trustworthy civic aesthetic, palette: deep navy #12263F, signal red #D7263D, warm cream #FFF8EE, ham pink #F2A7A0, accent gold #E9B44C, generous white space, subtle grain. Aspect ratio 2:1, high detail, no text unless specified.
+
+## Negatywny
+text artifacts, gibberish letters, watermark, signature, blurry, extra limbs, gore, raw meat blood, cluttered background, low resolution

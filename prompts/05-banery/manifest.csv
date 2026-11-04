@@ -1,0 +1,9 @@
+file,target_path,size,aspect_ratio,use,alt,prompt_file
+baner-promocja.png,public/images/banery/baner-promocja.png,1920x600,16:5,Baner promocji na stronie głównej,,prompts/baner-promocja.txt
+baner-nowosci.png,public/images/banery/baner-nowosci.png,1920x600,16:5,"Baner ""Nowości""",,prompts/baner-nowosci.txt
+baner-swieta.png,public/images/banery/baner-swieta.png,1920x600,16:5,Baner świąteczny (Wielkanoc/Boże Narodzenie),,prompts/baner-swieta.txt
+newsletter.png,public/images/banery/newsletter.png,1200x800,3:2,Sekcja newslettera,,prompts/newsletter.txt
+pusty-koszyk.png,public/images/banery/pusty-koszyk.png,800x800,1:1,Stan: pusty koszyk,,prompts/pusty-koszyk.txt
+404.png,public/images/banery/404.png,1200x900,4:3,Strona 404,,prompts/404.txt
+zamowienie-sukces.png,public/images/banery/zamowienie-sukces.png,800x800,1:1,Potwierdzenie zamówienia,,prompts/zamowienie-sukces.txt
+certyfikat-tlo.png,public/images/banery/certyfikat-tlo.png,2480x3508,A4 pionowo,Tło certyfikatu zakupu (PDF dla klienta),,prompts/certyfikat-tlo.txt

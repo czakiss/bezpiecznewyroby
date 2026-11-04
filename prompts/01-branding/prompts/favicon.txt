@@ -1,0 +1,12 @@
+# favicon.png
+Rozmiar docelowy: 512x512 (1:1)
+Zastosowanie: Favicon / app icon (zmniejszyć do 32/180/192)
+
+## Midjourney
+Ultra simple app icon: white sausage slice with red check mark inside a navy rounded square, bold shapes readable at 16px, flat, no text --ar 1:1 --style raw --v 7 --no text, watermark
+
+## Uniwersalny (DALL·E / Ideogram / Flux / SD)
+Ultra simple app icon: white sausage slice with red check mark inside a navy rounded square, bold shapes readable at 16px, flat, no text. Aspect ratio 1:1, high detail, no text unless specified.
+
+## Negatywny
+text artifacts, gibberish letters, watermark, signature, blurry, extra limbs, gore, raw meat blood, cluttered background, low resolution

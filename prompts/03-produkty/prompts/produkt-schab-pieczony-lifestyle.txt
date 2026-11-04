@@ -1,0 +1,13 @@
+# produkt-schab-pieczony-lifestyle.png
+Rozmiar docelowy: 1600x1000 (8:5)
+Zastosowanie: Galeria produktu: Schab pieczony (zdjęcie klimatyczne)
+Alt: Schab pieczony na stole
+
+## Midjourney
+Cozy kitchen table scene with a roasted pork loin with herb crust, sliced on a wooden board next to rye bread and pickles, a smartphone beside it displaying the same item, warm morning light, editorial food photography --ar 8:5 --style raw --v 7 --no text, watermark
+
+## Uniwersalny (DALL·E / Ideogram / Flux / SD)
+Cozy kitchen table scene with a roasted pork loin with herb crust, sliced on a wooden board next to rye bread and pickles, a smartphone beside it displaying the same item, warm morning light, editorial food photography. Aspect ratio 8:5, high detail, no text unless specified.
+
+## Negatywny
+text artifacts, gibberish letters, watermark, signature, blurry, extra limbs, gore, raw meat blood, cluttered background, low resolution

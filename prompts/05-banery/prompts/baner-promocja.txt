@@ -1,0 +1,12 @@
+# baner-promocja.png
+Rozmiar docelowy: 1920x600 (16:5)
+Zastosowanie: Baner promocji na stronie głównej
+
+## Midjourney
+Promo banner: sale tag in red, scattered glowing slices of salami and ham, a shopping cart on the right, left half empty for text, clean modern flat vector style with soft gradients, trustworthy civic aesthetic, palette: deep navy #12263F, signal red #D7263D, warm cream #FFF8EE, ham pink #F2A7A0, accent gold #E9B44C, generous white space, subtle grain --ar 16:5 --style raw --v 7 --no text, watermark
+
+## Uniwersalny (DALL·E / Ideogram / Flux / SD)
+Promo banner: sale tag in red, scattered glowing slices of salami and ham, a shopping cart on the right, left half empty for text, clean modern flat vector style with soft gradients, trustworthy civic aesthetic, palette: deep navy #12263F, signal red #D7263D, warm cream #FFF8EE, ham pink #F2A7A0, accent gold #E9B44C, generous white space, subtle grain. Aspect ratio 16:5, high detail, no text unless specified.
+
+## Negatywny
+text artifacts, gibberish letters, watermark, signature, blurry, extra limbs, gore, raw meat blood, cluttered background, low resolution

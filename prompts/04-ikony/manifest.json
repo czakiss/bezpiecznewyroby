@@ -1,0 +1,142 @@
+{
+  "pack": "04-ikony",
+  "title": "Ikony (zalety, kategorie, UI)",
+  "count": 15,
+  "items": [
+    {
+      "file": "ikona-bezpieczna-platnosc.png",
+      "target_path": "public/images/ikony/ikona-bezpieczna-platnosc.png",
+      "size": "512x512",
+      "aspect_ratio": "1:1",
+      "use": "Ikona: Bezpieczna płatność (wektoryzować do SVG)",
+      "alt": "Bezpieczna płatność",
+      "prompt_file": "prompts/ikona-bezpieczna-platnosc.txt"
+    },
+    {
+      "file": "ikona-dostawa-natychmiastowa.png",
+      "target_path": "public/images/ikony/ikona-dostawa-natychmiastowa.png",
+      "size": "512x512",
+      "aspect_ratio": "1:1",
+      "use": "Ikona: Dostawa natychmiastowa (wektoryzować do SVG)",
+      "alt": "Dostawa natychmiastowa",
+      "prompt_file": "prompts/ikona-dostawa-natychmiastowa.txt"
+    },
+    {
+      "file": "ikona-zero-kalorii.png",
+      "target_path": "public/images/ikony/ikona-zero-kalorii.png",
+      "size": "512x512",
+      "aspect_ratio": "1:1",
+      "use": "Ikona: 0 kalorii (wektoryzować do SVG)",
+      "alt": "0 kalorii",
+      "prompt_file": "prompts/ikona-zero-kalorii.txt"
+    },
+    {
+      "file": "ikona-certyfikat.png",
+      "target_path": "public/images/ikony/ikona-certyfikat.png",
+      "size": "512x512",
+      "aspect_ratio": "1:1",
+      "use": "Ikona: Certyfikat jakości (wektoryzować do SVG)",
+      "alt": "Certyfikat jakości",
+      "prompt_file": "prompts/ikona-certyfikat.txt"
+    },
+    {
+      "file": "ikona-koszyk.png",
+      "target_path": "public/images/ikony/ikona-koszyk.png",
+      "size": "512x512",
+      "aspect_ratio": "1:1",
+      "use": "Ikona: Koszyk (wektoryzować do SVG)",
+      "alt": "Koszyk",
+      "prompt_file": "prompts/ikona-koszyk.txt"
+    },
+    {
+      "file": "ikona-pobierz.png",
+      "target_path": "public/images/ikony/ikona-pobierz.png",
+      "size": "512x512",
+      "aspect_ratio": "1:1",
+      "use": "Ikona: Pobierz (wektoryzować do SVG)",
+      "alt": "Pobierz",
+      "prompt_file": "prompts/ikona-pobierz.txt"
+    },
+    {
+      "file": "ikona-swiezosc.png",
+      "target_path": "public/images/ikony/ikona-swiezosc.png",
+      "size": "512x512",
+      "aspect_ratio": "1:1",
+      "use": "Ikona: Wieczna świeżość (wektoryzować do SVG)",
+      "alt": "Wieczna świeżość",
+      "prompt_file": "prompts/ikona-swiezosc.txt"
+    },
+    {
+      "file": "ikona-eko.png",
+      "target_path": "public/images/ikony/ikona-eko.png",
+      "size": "512x512",
+      "aspect_ratio": "1:1",
+      "use": "Ikona: Zero odpadów (wektoryzować do SVG)",
+      "alt": "Zero odpadów",
+      "prompt_file": "prompts/ikona-eko.txt"
+    },
+    {
+      "file": "ikona-konto.png",
+      "target_path": "public/images/ikony/ikona-konto.png",
+      "size": "512x512",
+      "aspect_ratio": "1:1",
+      "use": "Ikona: Konto (wektoryzować do SVG)",
+      "alt": "Konto",
+      "prompt_file": "prompts/ikona-konto.txt"
+    },
+    {
+      "file": "ikona-wsparcie.png",
+      "target_path": "public/images/ikony/ikona-wsparcie.png",
+      "size": "512x512",
+      "aspect_ratio": "1:1",
+      "use": "Ikona: Wsparcie (wektoryzować do SVG)",
+      "alt": "Wsparcie",
+      "prompt_file": "prompts/ikona-wsparcie.txt"
+    },
+    {
+      "file": "ikona-kat-szynki.png",
+      "target_path": "public/images/ikony/ikona-kat-szynki.png",
+      "size": "512x512",
+      "aspect_ratio": "1:1",
+      "use": "Ikona: Kategoria: szynki (wektoryzować do SVG)",
+      "alt": "Kategoria: szynki",
+      "prompt_file": "prompts/ikona-kat-szynki.txt"
+    },
+    {
+      "file": "ikona-kat-kielbasy.png",
+      "target_path": "public/images/ikony/ikona-kat-kielbasy.png",
+      "size": "512x512",
+      "aspect_ratio": "1:1",
+      "use": "Ikona: Kategoria: kiełbasy (wektoryzować do SVG)",
+      "alt": "Kategoria: kiełbasy",
+      "prompt_file": "prompts/ikona-kat-kielbasy.txt"
+    },
+    {
+      "file": "ikona-kat-suche.png",
+      "target_path": "public/images/ikony/ikona-kat-suche.png",
+      "size": "512x512",
+      "aspect_ratio": "1:1",
+      "use": "Ikona: Kategoria: wędliny suche (wektoryzować do SVG)",
+      "alt": "Kategoria: wędliny suche",
+      "prompt_file": "prompts/ikona-kat-suche.txt"
+    },
+    {
+      "file": "ikona-kat-pasztety.png",
+      "target_path": "public/images/ikony/ikona-kat-pasztety.png",
+      "size": "512x512",
+      "aspect_ratio": "1:1",
+      "use": "Ikona: Kategoria: pasztety (wektoryzować do SVG)",
+      "alt": "Kategoria: pasztety",
+      "prompt_file": "prompts/ikona-kat-pasztety.txt"
+    },
+    {
+      "file": "ikona-kat-zestawy.png",
+      "target_path": "public/images/ikony/ikona-kat-zestawy.png",
+      "size": "512x512",
+      "aspect_ratio": "1:1",
+      "use": "Ikona: Kategoria: zestawy (wektoryzować do SVG)",
+      "alt": "Kategoria: zestawy",
+      "prompt_file": "prompts/ikona-kat-zestawy.txt"
+    }
+  ]
+}

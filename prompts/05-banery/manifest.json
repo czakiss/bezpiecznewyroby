@@ -1,0 +1,79 @@
+{
+  "pack": "05-banery",
+  "title": "Banery promocyjne i ilustracje stanów",
+  "count": 8,
+  "items": [
+    {
+      "file": "baner-promocja.png",
+      "target_path": "public/images/banery/baner-promocja.png",
+      "size": "1920x600",
+      "aspect_ratio": "16:5",
+      "use": "Baner promocji na stronie głównej",
+      "alt": "",
+      "prompt_file": "prompts/baner-promocja.txt"
+    },
+    {
+      "file": "baner-nowosci.png",
+      "target_path": "public/images/banery/baner-nowosci.png",
+      "size": "1920x600",
+      "aspect_ratio": "16:5",
+      "use": "Baner \"Nowości\"",
+      "alt": "",
+      "prompt_file": "prompts/baner-nowosci.txt"
+    },
+    {
+      "file": "baner-swieta.png",
+      "target_path": "public/images/banery/baner-swieta.png",
+      "size": "1920x600",
+      "aspect_ratio": "16:5",
+      "use": "Baner świąteczny (Wielkanoc/Boże Narodzenie)",
+      "alt": "",
+      "prompt_file": "prompts/baner-swieta.txt"
+    },
+    {
+      "file": "newsletter.png",
+      "target_path": "public/images/banery/newsletter.png",
+      "size": "1200x800",
+      "aspect_ratio": "3:2",
+      "use": "Sekcja newslettera",
+      "alt": "",
+      "prompt_file": "prompts/newsletter.txt"
+    },
+    {
+      "file": "pusty-koszyk.png",
+      "target_path": "public/images/banery/pusty-koszyk.png",
+      "size": "800x800",
+      "aspect_ratio": "1:1",
+      "use": "Stan: pusty koszyk",
+      "alt": "",
+      "prompt_file": "prompts/pusty-koszyk.txt"
+    },
+    {
+      "file": "404.png",
+      "target_path": "public/images/banery/404.png",
+      "size": "1200x900",
+      "aspect_ratio": "4:3",
+      "use": "Strona 404",
+      "alt": "",
+      "prompt_file": "prompts/404.txt"
+    },
+    {
+      "file": "zamowienie-sukces.png",
+      "target_path": "public/images/banery/zamowienie-sukces.png",
+      "size": "800x800",
+      "aspect_ratio": "1:1",
+      "use": "Potwierdzenie zamówienia",
+      "alt": "",
+      "prompt_file": "prompts/zamowienie-sukces.txt"
+    },
+    {
+      "file": "certyfikat-tlo.png",
+      "target_path": "public/images/banery/certyfikat-tlo.png",
+      "size": "2480x3508",
+      "aspect_ratio": "A4 pionowo",
+      "use": "Tło certyfikatu zakupu (PDF dla klienta)",
+      "alt": "",
+      "prompt_file": "prompts/certyfikat-tlo.txt"
+    }
+  ]
+}

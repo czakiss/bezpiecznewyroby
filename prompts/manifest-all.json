@@ -1,0 +1,632 @@
+[
+  {
+    "pack": "01-branding",
+    "file": "logo-main.png",
+    "target_path": "public/images/branding/logo-main.png",
+    "size": "1600x480",
+    "aspect_ratio": "10:3",
+    "use": "Logo w nagłówku (jasne tło)",
+    "alt": "Logo Bezpieczne Wyroby",
+    "prompt_file": "prompts/logo-main.txt"
+  },
+  {
+    "pack": "01-branding",
+    "file": "logo-mark.png",
+    "target_path": "public/images/branding/logo-mark.png",
+    "size": "1024x1024",
+    "aspect_ratio": "1:1",
+    "use": "Sygnet (avatar, mobile header)",
+    "alt": "Sygnet Bezpieczne Wyroby",
+    "prompt_file": "prompts/logo-mark.txt"
+  },
+  {
+    "pack": "01-branding",
+    "file": "logo-mono-white.png",
+    "target_path": "public/images/branding/logo-mono-white.png",
+    "size": "1600x480",
+    "aspect_ratio": "10:3",
+    "use": "Logo na ciemnym tle (stopka)",
+    "alt": "Logo Bezpieczne Wyroby (białe)",
+    "prompt_file": "prompts/logo-mono-white.txt"
+  },
+  {
+    "pack": "01-branding",
+    "file": "favicon.png",
+    "target_path": "public/images/branding/favicon.png",
+    "size": "512x512",
+    "aspect_ratio": "1:1",
+    "use": "Favicon / app icon (zmniejszyć do 32/180/192)",
+    "alt": "",
+    "prompt_file": "prompts/favicon.txt"
+  },
+  {
+    "pack": "01-branding",
+    "file": "og-image.png",
+    "target_path": "public/images/branding/og-image.png",
+    "size": "1200x630",
+    "aspect_ratio": "1.91:1",
+    "use": "Obrazek Open Graph do udostępnień",
+    "alt": "",
+    "prompt_file": "prompts/og-image.txt"
+  },
+  {
+    "pack": "02-hero",
+    "file": "hero-desktop.png",
+    "target_path": "public/images/hero/hero-desktop.png",
+    "size": "2400x1200",
+    "aspect_ratio": "2:1",
+    "use": "Hero strony głównej (desktop)",
+    "alt": "",
+    "prompt_file": "prompts/hero-desktop.txt"
+  },
+  {
+    "pack": "02-hero",
+    "file": "hero-mobile.png",
+    "target_path": "public/images/hero/hero-mobile.png",
+    "size": "1080x1350",
+    "aspect_ratio": "4:5",
+    "use": "Hero (mobile)",
+    "alt": "",
+    "prompt_file": "prompts/hero-mobile.txt"
+  },
+  {
+    "pack": "02-hero",
+    "file": "how-it-works.png",
+    "target_path": "public/images/hero/how-it-works.png",
+    "size": "1800x900",
+    "aspect_ratio": "2:1",
+    "use": "Sekcja \"Jak to działa\"",
+    "alt": "",
+    "prompt_file": "prompts/how-it-works.txt"
+  },
+  {
+    "pack": "02-hero",
+    "file": "about-us.png",
+    "target_path": "public/images/hero/about-us.png",
+    "size": "1600x1200",
+    "aspect_ratio": "4:3",
+    "use": "Sekcja \"O nas\"",
+    "alt": "",
+    "prompt_file": "prompts/about-us.txt"
+  },
+  {
+    "pack": "02-hero",
+    "file": "trust-section-bg.png",
+    "target_path": "public/images/hero/trust-section-bg.png",
+    "size": "2400x800",
+    "aspect_ratio": "3:1",
+    "use": "Tło sekcji zaufania / gwarancji",
+    "alt": "",
+    "prompt_file": "prompts/trust-section-bg.txt"
+  },
+  {
+    "pack": "03-produkty",
+    "file": "produkt-szynka-wiejska.png",
+    "target_path": "public/images/produkty/produkt-szynka-wiejska.png",
+    "size": "1200x1200",
+    "aspect_ratio": "1:1",
+    "use": "Karta i strona produktu: Szynka wiejska",
+    "alt": "Szynka wiejska – wirtualny produkt",
+    "prompt_file": "prompts/produkt-szynka-wiejska.txt"
+  },
+  {
+    "pack": "03-produkty",
+    "file": "produkt-szynka-wiejska-lifestyle.png",
+    "target_path": "public/images/produkty/produkt-szynka-wiejska-lifestyle.png",
+    "size": "1600x1000",
+    "aspect_ratio": "8:5",
+    "use": "Galeria produktu: Szynka wiejska (zdjęcie klimatyczne)",
+    "alt": "Szynka wiejska na stole",
+    "prompt_file": "prompts/produkt-szynka-wiejska-lifestyle.txt"
+  },
+  {
+    "pack": "03-produkty",
+    "file": "produkt-kielbasa-krakowska.png",
+    "target_path": "public/images/produkty/produkt-kielbasa-krakowska.png",
+    "size": "1200x1200",
+    "aspect_ratio": "1:1",
+    "use": "Karta i strona produktu: Kiełbasa krakowska",
+    "alt": "Kiełbasa krakowska – wirtualny produkt",
+    "prompt_file": "prompts/produkt-kielbasa-krakowska.txt"
+  },
+  {
+    "pack": "03-produkty",
+    "file": "produkt-kielbasa-krakowska-lifestyle.png",
+    "target_path": "public/images/produkty/produkt-kielbasa-krakowska-lifestyle.png",
+    "size": "1600x1000",
+    "aspect_ratio": "8:5",
+    "use": "Galeria produktu: Kiełbasa krakowska (zdjęcie klimatyczne)",
+    "alt": "Kiełbasa krakowska na stole",
+    "prompt_file": "prompts/produkt-kielbasa-krakowska-lifestyle.txt"
+  },
+  {
+    "pack": "03-produkty",
+    "file": "produkt-kabanosy.png",
+    "target_path": "public/images/produkty/produkt-kabanosy.png",
+    "size": "1200x1200",
+    "aspect_ratio": "1:1",
+    "use": "Karta i strona produktu: Kabanosy",
+    "alt": "Kabanosy – wirtualny produkt",
+    "prompt_file": "prompts/produkt-kabanosy.txt"
+  },
+  {
+    "pack": "03-produkty",
+    "file": "produkt-kabanosy-lifestyle.png",
+    "target_path": "public/images/produkty/produkt-kabanosy-lifestyle.png",
+    "size": "1600x1000",
+    "aspect_ratio": "8:5",
+    "use": "Galeria produktu: Kabanosy (zdjęcie klimatyczne)",
+    "alt": "Kabanosy na stole",
+    "prompt_file": "prompts/produkt-kabanosy-lifestyle.txt"
+  },
+  {
+    "pack": "03-produkty",
+    "file": "produkt-salami.png",
+    "target_path": "public/images/produkty/produkt-salami.png",
+    "size": "1200x1200",
+    "aspect_ratio": "1:1",
+    "use": "Karta i strona produktu: Salami",
+    "alt": "Salami – wirtualny produkt",
+    "prompt_file": "prompts/produkt-salami.txt"
+  },
+  {
+    "pack": "03-produkty",
+    "file": "produkt-salami-lifestyle.png",
+    "target_path": "public/images/produkty/produkt-salami-lifestyle.png",
+    "size": "1600x1000",
+    "aspect_ratio": "8:5",
+    "use": "Galeria produktu: Salami (zdjęcie klimatyczne)",
+    "alt": "Salami na stole",
+    "prompt_file": "prompts/produkt-salami-lifestyle.txt"
+  },
+  {
+    "pack": "03-produkty",
+    "file": "produkt-boczek-wedzony.png",
+    "target_path": "public/images/produkty/produkt-boczek-wedzony.png",
+    "size": "1200x1200",
+    "aspect_ratio": "1:1",
+    "use": "Karta i strona produktu: Boczek wędzony",
+    "alt": "Boczek wędzony – wirtualny produkt",
+    "prompt_file": "prompts/produkt-boczek-wedzony.txt"
+  },
+  {
+    "pack": "03-produkty",
+    "file": "produkt-boczek-wedzony-lifestyle.png",
+    "target_path": "public/images/produkty/produkt-boczek-wedzony-lifestyle.png",
+    "size": "1600x1000",
+    "aspect_ratio": "8:5",
+    "use": "Galeria produktu: Boczek wędzony (zdjęcie klimatyczne)",
+    "alt": "Boczek wędzony na stole",
+    "prompt_file": "prompts/produkt-boczek-wedzony-lifestyle.txt"
+  },
+  {
+    "pack": "03-produkty",
+    "file": "produkt-poledwica-sopocka.png",
+    "target_path": "public/images/produkty/produkt-poledwica-sopocka.png",
+    "size": "1200x1200",
+    "aspect_ratio": "1:1",
+    "use": "Karta i strona produktu: Polędwica sopocka",
+    "alt": "Polędwica sopocka – wirtualny produkt",
+    "prompt_file": "prompts/produkt-poledwica-sopocka.txt"
+  },
+  {
+    "pack": "03-produkty",
+    "file": "produkt-poledwica-sopocka-lifestyle.png",
+    "target_path": "public/images/produkty/produkt-poledwica-sopocka-lifestyle.png",
+    "size": "1600x1000",
+    "aspect_ratio": "8:5",
+    "use": "Galeria produktu: Polędwica sopocka (zdjęcie klimatyczne)",
+    "alt": "Polędwica sopocka na stole",
+    "prompt_file": "prompts/produkt-poledwica-sopocka-lifestyle.txt"
+  },
+  {
+    "pack": "03-produkty",
+    "file": "produkt-kielbasa-slaska.png",
+    "target_path": "public/images/produkty/produkt-kielbasa-slaska.png",
+    "size": "1200x1200",
+    "aspect_ratio": "1:1",
+    "use": "Karta i strona produktu: Kiełbasa śląska",
+    "alt": "Kiełbasa śląska – wirtualny produkt",
+    "prompt_file": "prompts/produkt-kielbasa-slaska.txt"
+  },
+  {
+    "pack": "03-produkty",
+    "file": "produkt-kielbasa-slaska-lifestyle.png",
+    "target_path": "public/images/produkty/produkt-kielbasa-slaska-lifestyle.png",
+    "size": "1600x1000",
+    "aspect_ratio": "8:5",
+    "use": "Galeria produktu: Kiełbasa śląska (zdjęcie klimatyczne)",
+    "alt": "Kiełbasa śląska na stole",
+    "prompt_file": "prompts/produkt-kielbasa-slaska-lifestyle.txt"
+  },
+  {
+    "pack": "03-produkty",
+    "file": "produkt-kielbasa-mysliwska.png",
+    "target_path": "public/images/produkty/produkt-kielbasa-mysliwska.png",
+    "size": "1200x1200",
+    "aspect_ratio": "1:1",
+    "use": "Karta i strona produktu: Kiełbasa myśliwska",
+    "alt": "Kiełbasa myśliwska – wirtualny produkt",
+    "prompt_file": "prompts/produkt-kielbasa-mysliwska.txt"
+  },
+  {
+    "pack": "03-produkty",
+    "file": "produkt-kielbasa-mysliwska-lifestyle.png",
+    "target_path": "public/images/produkty/produkt-kielbasa-mysliwska-lifestyle.png",
+    "size": "1600x1000",
+    "aspect_ratio": "8:5",
+    "use": "Galeria produktu: Kiełbasa myśliwska (zdjęcie klimatyczne)",
+    "alt": "Kiełbasa myśliwska na stole",
+    "prompt_file": "prompts/produkt-kielbasa-mysliwska-lifestyle.txt"
+  },
+  {
+    "pack": "03-produkty",
+    "file": "produkt-baleron.png",
+    "target_path": "public/images/produkty/produkt-baleron.png",
+    "size": "1200x1200",
+    "aspect_ratio": "1:1",
+    "use": "Karta i strona produktu: Baleron",
+    "alt": "Baleron – wirtualny produkt",
+    "prompt_file": "prompts/produkt-baleron.txt"
+  },
+  {
+    "pack": "03-produkty",
+    "file": "produkt-baleron-lifestyle.png",
+    "target_path": "public/images/produkty/produkt-baleron-lifestyle.png",
+    "size": "1600x1000",
+    "aspect_ratio": "8:5",
+    "use": "Galeria produktu: Baleron (zdjęcie klimatyczne)",
+    "alt": "Baleron na stole",
+    "prompt_file": "prompts/produkt-baleron-lifestyle.txt"
+  },
+  {
+    "pack": "03-produkty",
+    "file": "produkt-schab-pieczony.png",
+    "target_path": "public/images/produkty/produkt-schab-pieczony.png",
+    "size": "1200x1200",
+    "aspect_ratio": "1:1",
+    "use": "Karta i strona produktu: Schab pieczony",
+    "alt": "Schab pieczony – wirtualny produkt",
+    "prompt_file": "prompts/produkt-schab-pieczony.txt"
+  },
+  {
+    "pack": "03-produkty",
+    "file": "produkt-schab-pieczony-lifestyle.png",
+    "target_path": "public/images/produkty/produkt-schab-pieczony-lifestyle.png",
+    "size": "1600x1000",
+    "aspect_ratio": "8:5",
+    "use": "Galeria produktu: Schab pieczony (zdjęcie klimatyczne)",
+    "alt": "Schab pieczony na stole",
+    "prompt_file": "prompts/produkt-schab-pieczony-lifestyle.txt"
+  },
+  {
+    "pack": "03-produkty",
+    "file": "produkt-mortadela.png",
+    "target_path": "public/images/produkty/produkt-mortadela.png",
+    "size": "1200x1200",
+    "aspect_ratio": "1:1",
+    "use": "Karta i strona produktu: Mortadela",
+    "alt": "Mortadela – wirtualny produkt",
+    "prompt_file": "prompts/produkt-mortadela.txt"
+  },
+  {
+    "pack": "03-produkty",
+    "file": "produkt-mortadela-lifestyle.png",
+    "target_path": "public/images/produkty/produkt-mortadela-lifestyle.png",
+    "size": "1600x1000",
+    "aspect_ratio": "8:5",
+    "use": "Galeria produktu: Mortadela (zdjęcie klimatyczne)",
+    "alt": "Mortadela na stole",
+    "prompt_file": "prompts/produkt-mortadela-lifestyle.txt"
+  },
+  {
+    "pack": "03-produkty",
+    "file": "produkt-pasztet.png",
+    "target_path": "public/images/produkty/produkt-pasztet.png",
+    "size": "1200x1200",
+    "aspect_ratio": "1:1",
+    "use": "Karta i strona produktu: Pasztet",
+    "alt": "Pasztet – wirtualny produkt",
+    "prompt_file": "prompts/produkt-pasztet.txt"
+  },
+  {
+    "pack": "03-produkty",
+    "file": "produkt-pasztet-lifestyle.png",
+    "target_path": "public/images/produkty/produkt-pasztet-lifestyle.png",
+    "size": "1600x1000",
+    "aspect_ratio": "8:5",
+    "use": "Galeria produktu: Pasztet (zdjęcie klimatyczne)",
+    "alt": "Pasztet na stole",
+    "prompt_file": "prompts/produkt-pasztet-lifestyle.txt"
+  },
+  {
+    "pack": "03-produkty",
+    "file": "produkt-salceson.png",
+    "target_path": "public/images/produkty/produkt-salceson.png",
+    "size": "1200x1200",
+    "aspect_ratio": "1:1",
+    "use": "Karta i strona produktu: Salceson",
+    "alt": "Salceson – wirtualny produkt",
+    "prompt_file": "prompts/produkt-salceson.txt"
+  },
+  {
+    "pack": "03-produkty",
+    "file": "produkt-salceson-lifestyle.png",
+    "target_path": "public/images/produkty/produkt-salceson-lifestyle.png",
+    "size": "1600x1000",
+    "aspect_ratio": "8:5",
+    "use": "Galeria produktu: Salceson (zdjęcie klimatyczne)",
+    "alt": "Salceson na stole",
+    "prompt_file": "prompts/produkt-salceson-lifestyle.txt"
+  },
+  {
+    "pack": "03-produkty",
+    "file": "produkt-kaszanka.png",
+    "target_path": "public/images/produkty/produkt-kaszanka.png",
+    "size": "1200x1200",
+    "aspect_ratio": "1:1",
+    "use": "Karta i strona produktu: Kaszanka",
+    "alt": "Kaszanka – wirtualny produkt",
+    "prompt_file": "prompts/produkt-kaszanka.txt"
+  },
+  {
+    "pack": "03-produkty",
+    "file": "produkt-kaszanka-lifestyle.png",
+    "target_path": "public/images/produkty/produkt-kaszanka-lifestyle.png",
+    "size": "1600x1000",
+    "aspect_ratio": "8:5",
+    "use": "Galeria produktu: Kaszanka (zdjęcie klimatyczne)",
+    "alt": "Kaszanka na stole",
+    "prompt_file": "prompts/produkt-kaszanka-lifestyle.txt"
+  },
+  {
+    "pack": "03-produkty",
+    "file": "produkt-zestaw-degustacyjny.png",
+    "target_path": "public/images/produkty/produkt-zestaw-degustacyjny.png",
+    "size": "1200x1200",
+    "aspect_ratio": "1:1",
+    "use": "Karta i strona produktu: Zestaw degustacyjny",
+    "alt": "Zestaw degustacyjny – wirtualny produkt",
+    "prompt_file": "prompts/produkt-zestaw-degustacyjny.txt"
+  },
+  {
+    "pack": "03-produkty",
+    "file": "produkt-zestaw-degustacyjny-lifestyle.png",
+    "target_path": "public/images/produkty/produkt-zestaw-degustacyjny-lifestyle.png",
+    "size": "1600x1000",
+    "aspect_ratio": "8:5",
+    "use": "Galeria produktu: Zestaw degustacyjny (zdjęcie klimatyczne)",
+    "alt": "Zestaw degustacyjny na stole",
+    "prompt_file": "prompts/produkt-zestaw-degustacyjny-lifestyle.txt"
+  },
+  {
+    "pack": "04-ikony",
+    "file": "ikona-bezpieczna-platnosc.png",
+    "target_path": "public/images/ikony/ikona-bezpieczna-platnosc.png",
+    "size": "512x512",
+    "aspect_ratio": "1:1",
+    "use": "Ikona: Bezpieczna płatność (wektoryzować do SVG)",
+    "alt": "Bezpieczna płatność",
+    "prompt_file": "prompts/ikona-bezpieczna-platnosc.txt"
+  },
+  {
+    "pack": "04-ikony",
+    "file": "ikona-dostawa-natychmiastowa.png",
+    "target_path": "public/images/ikony/ikona-dostawa-natychmiastowa.png",
+    "size": "512x512",
+    "aspect_ratio": "1:1",
+    "use": "Ikona: Dostawa natychmiastowa (wektoryzować do SVG)",
+    "alt": "Dostawa natychmiastowa",
+    "prompt_file": "prompts/ikona-dostawa-natychmiastowa.txt"
+  },
+  {
+    "pack": "04-ikony",
+    "file": "ikona-zero-kalorii.png",
+    "target_path": "public/images/ikony/ikona-zero-kalorii.png",
+    "size": "512x512",
+    "aspect_ratio": "1:1",
+    "use": "Ikona: 0 kalorii (wektoryzować do SVG)",
+    "alt": "0 kalorii",
+    "prompt_file": "prompts/ikona-zero-kalorii.txt"
+  },
+  {
+    "pack": "04-ikony",
+    "file": "ikona-certyfikat.png",
+    "target_path": "public/images/ikony/ikona-certyfikat.png",
+    "size": "512x512",
+    "aspect_ratio": "1:1",
+    "use": "Ikona: Certyfikat jakości (wektoryzować do SVG)",
+    "alt": "Certyfikat jakości",
+    "prompt_file": "prompts/ikona-certyfikat.txt"
+  },
+  {
+    "pack": "04-ikony",
+    "file": "ikona-koszyk.png",
+    "target_path": "public/images/ikony/ikona-koszyk.png",
+    "size": "512x512",
+    "aspect_ratio": "1:1",
+    "use": "Ikona: Koszyk (wektoryzować do SVG)",
+    "alt": "Koszyk",
+    "prompt_file": "prompts/ikona-koszyk.txt"
+  },
+  {
+    "pack": "04-ikony",
+    "file": "ikona-pobierz.png",
+    "target_path": "public/images/ikony/ikona-pobierz.png",
+    "size": "512x512",
+    "aspect_ratio": "1:1",
+    "use": "Ikona: Pobierz (wektoryzować do SVG)",
+    "alt": "Pobierz",
+    "prompt_file": "prompts/ikona-pobierz.txt"
+  },
+  {
+    "pack": "04-ikony",
+    "file": "ikona-swiezosc.png",
+    "target_path": "public/images/ikony/ikona-swiezosc.png",
+    "size": "512x512",
+    "aspect_ratio": "1:1",
+    "use": "Ikona: Wieczna świeżość (wektoryzować do SVG)",
+    "alt": "Wieczna świeżość",
+    "prompt_file": "prompts/ikona-swiezosc.txt"
+  },
+  {
+    "pack": "04-ikony",
+    "file": "ikona-eko.png",
+    "target_path": "public/images/ikony/ikona-eko.png",
+    "size": "512x512",
+    "aspect_ratio": "1:1",
+    "use": "Ikona: Zero odpadów (wektoryzować do SVG)",
+    "alt": "Zero odpadów",
+    "prompt_file": "prompts/ikona-eko.txt"
+  },
+  {
+    "pack": "04-ikony",
+    "file": "ikona-konto.png",
+    "target_path": "public/images/ikony/ikona-konto.png",
+    "size": "512x512",
+    "aspect_ratio": "1:1",
+    "use": "Ikona: Konto (wektoryzować do SVG)",
+    "alt": "Konto",
+    "prompt_file": "prompts/ikona-konto.txt"
+  },
+  {
+    "pack": "04-ikony",
+    "file": "ikona-wsparcie.png",
+    "target_path": "public/images/ikony/ikona-wsparcie.png",
+    "size": "512x512",
+    "aspect_ratio": "1:1",
+    "use": "Ikona: Wsparcie (wektoryzować do SVG)",
+    "alt": "Wsparcie",
+    "prompt_file": "prompts/ikona-wsparcie.txt"
+  },
+  {
+    "pack": "04-ikony",
+    "file": "ikona-kat-szynki.png",
+    "target_path": "public/images/ikony/ikona-kat-szynki.png",
+    "size": "512x512",
+    "aspect_ratio": "1:1",
+    "use": "Ikona: Kategoria: szynki (wektoryzować do SVG)",
+    "alt": "Kategoria: szynki",
+    "prompt_file": "prompts/ikona-kat-szynki.txt"
+  },
+  {
+    "pack": "04-ikony",
+    "file": "ikona-kat-kielbasy.png",
+    "target_path": "public/images/ikony/ikona-kat-kielbasy.png",
+    "size": "512x512",
+    "aspect_ratio": "1:1",
+    "use": "Ikona: Kategoria: kiełbasy (wektoryzować do SVG)",
+    "alt": "Kategoria: kiełbasy",
+    "prompt_file": "prompts/ikona-kat-kielbasy.txt"
+  },
+  {
+    "pack": "04-ikony",
+    "file": "ikona-kat-suche.png",
+    "target_path": "public/images/ikony/ikona-kat-suche.png",
+    "size": "512x512",
+    "aspect_ratio": "1:1",
+    "use": "Ikona: Kategoria: wędliny suche (wektoryzować do SVG)",
+    "alt": "Kategoria: wędliny suche",
+    "prompt_file": "prompts/ikona-kat-suche.txt"
+  },
+  {
+    "pack": "04-ikony",
+    "file": "ikona-kat-pasztety.png",
+    "target_path": "public/images/ikony/ikona-kat-pasztety.png",
+    "size": "512x512",
+    "aspect_ratio": "1:1",
+    "use": "Ikona: Kategoria: pasztety (wektoryzować do SVG)",
+    "alt": "Kategoria: pasztety",
+    "prompt_file": "prompts/ikona-kat-pasztety.txt"
+  },
+  {
+    "pack": "04-ikony",
+    "file": "ikona-kat-zestawy.png",
+    "target_path": "public/images/ikony/ikona-kat-zestawy.png",
+    "size": "512x512",
+    "aspect_ratio": "1:1",
+    "use": "Ikona: Kategoria: zestawy (wektoryzować do SVG)",
+    "alt": "Kategoria: zestawy",
+    "prompt_file": "prompts/ikona-kat-zestawy.txt"
+  },
+  {
+    "pack": "05-banery",
+    "file": "baner-promocja.png",
+    "target_path": "public/images/banery/baner-promocja.png",
+    "size": "1920x600",
+    "aspect_ratio": "16:5",
+    "use": "Baner promocji na stronie głównej",
+    "alt": "",
+    "prompt_file": "prompts/baner-promocja.txt"
+  },
+  {
+    "pack": "05-banery",
+    "file": "baner-nowosci.png",
+    "target_path": "public/images/banery/baner-nowosci.png",
+    "size": "1920x600",
+    "aspect_ratio": "16:5",
+    "use": "Baner \"Nowości\"",
+    "alt": "",
+    "prompt_file": "prompts/baner-nowosci.txt"
+  },
+  {
+    "pack": "05-banery",
+    "file": "baner-swieta.png",
+    "target_path": "public/images/banery/baner-swieta.png",
+    "size": "1920x600",
+    "aspect_ratio": "16:5",
+    "use": "Baner świąteczny (Wielkanoc/Boże Narodzenie)",
+    "alt": "",
+    "prompt_file": "prompts/baner-swieta.txt"
+  },
+  {
+    "pack": "05-banery",
+    "file": "newsletter.png",
+    "target_path": "public/images/banery/newsletter.png",
+    "size": "1200x800",
+    "aspect_ratio": "3:2",
+    "use": "Sekcja newslettera",
+    "alt": "",
+    "prompt_file": "prompts/newsletter.txt"
+  },
+  {
+    "pack": "05-banery",
+    "file": "pusty-koszyk.png",
+    "target_path": "public/images/banery/pusty-koszyk.png",
+    "size": "800x800",
+    "aspect_ratio": "1:1",
+    "use": "Stan: pusty koszyk",
+    "alt": "",
+    "prompt_file": "prompts/pusty-koszyk.txt"
+  },
+  {
+    "pack": "05-banery",
+    "file": "404.png",
+    "target_path": "public/images/banery/404.png",
+    "size": "1200x900",
+    "aspect_ratio": "4:3",
+    "use": "Strona 404",
+    "alt": "",
+    "prompt_file": "prompts/404.txt"
+  },
+  {
+    "pack": "05-banery",
+    "file": "zamowienie-sukces.png",
+    "target_path": "public/images/banery/zamowienie-sukces.png",
+    "size": "800x800",
+    "aspect_ratio": "1:1",
+    "use": "Potwierdzenie zamówienia",
+    "alt": "",
+    "prompt_file": "prompts/zamowienie-sukces.txt"
+  },
+  {
+    "pack": "05-banery",
+    "file": "certyfikat-tlo.png",
+    "target_path": "public/images/banery/certyfikat-tlo.png",
+    "size": "2480x3508",
+    "aspect_ratio": "A4 pionowo",
+    "use": "Tło certyfikatu zakupu (PDF dla klienta)",
+    "alt": "",
+    "prompt_file": "prompts/certyfikat-tlo.txt"
+  }
+]

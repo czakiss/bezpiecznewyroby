@@ -1,0 +1,52 @@
+{
+  "pack": "02-hero",
+  "title": "Hero i sekcje strony głównej",
+  "count": 5,
+  "items": [
+    {
+      "file": "hero-desktop.png",
+      "target_path": "public/images/hero/hero-desktop.png",
+      "size": "2400x1200",
+      "aspect_ratio": "2:1",
+      "use": "Hero strony głównej (desktop)",
+      "alt": "",
+      "prompt_file": "prompts/hero-desktop.txt"
+    },
+    {
+      "file": "hero-mobile.png",
+      "target_path": "public/images/hero/hero-mobile.png",
+      "size": "1080x1350",
+      "aspect_ratio": "4:5",
+      "use": "Hero (mobile)",
+      "alt": "",
+      "prompt_file": "prompts/hero-mobile.txt"
+    },
+    {
+      "file": "how-it-works.png",
+      "target_path": "public/images/hero/how-it-works.png",
+      "size": "1800x900",
+      "aspect_ratio": "2:1",
+      "use": "Sekcja \"Jak to działa\"",
+      "alt": "",
+      "prompt_file": "prompts/how-it-works.txt"
+    },
+    {
+      "file": "about-us.png",
+      "target_path": "public/images/hero/about-us.png",
+      "size": "1600x1200",
+      "aspect_ratio": "4:3",
+      "use": "Sekcja \"O nas\"",
+      "alt": "",
+      "prompt_file": "prompts/about-us.txt"
+    },
+    {
+      "file": "trust-section-bg.png",
+      "target_path": "public/images/hero/trust-section-bg.png",
+      "size": "2400x800",
+      "aspect_ratio": "3:1",
+      "use": "Tło sekcji zaufania / gwarancji",
+      "alt": "",
+      "prompt_file": "prompts/trust-section-bg.txt"
+    }
+  ]
+}

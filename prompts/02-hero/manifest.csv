@@ -1,0 +1,6 @@
+file,target_path,size,aspect_ratio,use,alt,prompt_file
+hero-desktop.png,public/images/hero/hero-desktop.png,2400x1200,2:1,Hero strony głównej (desktop),,prompts/hero-desktop.txt
+hero-mobile.png,public/images/hero/hero-mobile.png,1080x1350,4:5,Hero (mobile),,prompts/hero-mobile.txt
+how-it-works.png,public/images/hero/how-it-works.png,1800x900,2:1,"Sekcja ""Jak to działa""",,prompts/how-it-works.txt
+about-us.png,public/images/hero/about-us.png,1600x1200,4:3,"Sekcja ""O nas""",,prompts/about-us.txt
+trust-section-bg.png,public/images/hero/trust-section-bg.png,2400x800,3:1,Tło sekcji zaufania / gwarancji,,prompts/trust-section-bg.txt
